@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">TuTransporte</string>
+    <string name="title_activity_login">Ingresa a TuTransporte</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresa</string>
+    <string name="logo_description">Logo Empresa</string>
+    <string name="action_sign_in_short">Ingresa</string>
+    <string name="error_invalid_user">El usuario es invalido</string>
+    <string name="error_invalid_password">La contraseña es muy corta</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="prompt_init">Iniciar Viaje</string>
+    <string name="prompt_cant_go">No puedo ir</string>
+    <string name="permission_rationale">No tiene los permisos racionales</string>
+    <string name="logout">Salir</string>
+    <string name="cancel">Cancelar</string>
+    <string name="confirm_logout">¿Estas seguro que deseas salir?</string>
+    <string name="confirm_logout_message">Si sales tendras que volver a iniciar sesión.</string>
+    <string name="confirm_end">¿Ya abordaron todos?</string>
+    <string name="end_trip">Terminar recorrido</string>
+    <string name="prompt_couldnt_go">Tranquilo, alguien mas te ayudará hoy, ya le avisamos a tu suplente.</string>
+    <string name="prompt_no_monitor">¿El monitor no contesta?</string>
+    <string name="wait">Esperar un poco mas</string>
+
+    <!-- Shared preferences -->
+    <string name="archiveSP">archivo</string>
+    <string name="loginSP">loginSP</string>
+    <string name="usernameSP">username</string>
+    <string name="hostnameSP">hostname</string>
+    <string name="passwordSP">password</string>
+    <string name="rolSP">rol</string>
+    <string name="schoolSP" >school</string>
+    <string name="asignacionSP">asignacion</string>
+    <string name="beneficiariosSP">beneficiarios</string>
+    <string name="pNombreSP">nom1</string>
+    <string name="sApellidoSP">ape2</string>
+    <string name="pApellidoSP">ape1</string>
+    <string name="sNombreSP">nom2</string>
+    <string name="documentoSP">documento</string>
+
+    <!-- Request data -->
+    <string name="mainHostRD">http://www.sistemasivhorsnet.com</string>
+    <string name="login_failRD">Fallo en la autenticación</string>
+    <string name="successRD">success</string>
+    <string name="errorRD">error</string>
+    <string name="modeIETRD">mode</string>
+    <string name="resultsRD">results</string>
+    <string name="short_nameRD">short_name</string>
+    <string name="prompt_no_iet_selected">No has seleccionado ninguna institución</string>
+    <string name="prompt_select_one">Seleccione una...</string>
+    <string name="prompt_ingreso_motivo">Dile a tu suplente por qué no puedes ir para que te reemplace</string>
+    <string name="title_no_puedo_ir">¿Por qué no puedes ir?</string>
+    <string name="motivoSP">motivo</string>
+    <string name="fechaSP">fecha</string>
+    <string name="horaSP">hora</string>
+    <string name="title_asistencia">Listado de asistencia</string>
+    <string name="suplenteStartTitle">¿Estas seguro de querer iniciar el viaje?</string>
+    <string name="suplenteStartMessage">Tu monitor podria empezarlo por ti</string>
+    <string name="promptChangeSchool">Cambiar de institución</string>
+
+</resources>

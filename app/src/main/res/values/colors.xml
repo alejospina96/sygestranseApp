@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#22599C</color>
+    <color name="colorPrimaryDark">#011638</color>
+    <color name="colorAccent">#3FA446</color>
+
+    <!--Other Colors-->
+    <color name="white">#ffffff</color>
+    <color name="yellow">#F6CB48</color>
+    <color name="dark_grey">#2b303a</color>
+    <color name="red">#ff3300</color>
+
+    <!--Transparent colors-->
+    <color name="t_accent">#803FA446</color>
+    <color name="t_dark_grey">#802b303a</color>
+    <color name="t_black">#80000000</color>
+    <color name="t_red">#80ff3300</color>
+    <color name="transparent">#0000</color>
+    <color name="t_white">#80FFFFFF</color>
+
+</resources>

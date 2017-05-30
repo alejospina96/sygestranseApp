@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/t_black"
+    tools:context="com.sistemasivhorsnet.tutransporte.LogoutFragment">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/confirm_end"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:layout_marginBottom="16dp"
+        android:layout_weight="8.40" />
+
+    <Button
+        android:id="@+id/btnTravelEnd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/colorPrimary"
+        android:text="@string/end_trip"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/btnTravelCancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/t_red"
+        android:text="@string/cancel" />
+</LinearLayout>
